@@ -67,21 +67,57 @@
       description:
           - Designed a capacity balance model for Li-ion batteries with Si/C/graphite anodes to mitigate the electrochemical performance difference b/w half-cell & full-cell modes.
 
-- title: Open Source Projects
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Analytical
+      items: 
+        - DSC, TGA, DMA, rheometer, FTIR, UV-Vis, XRD, EDX, SEM, HPLC
+        
+    - title: Technical
+      items: 
+        - Application testing: electrical conductivity, piezoelectric sensors, Li-ion batteries
+        - Fabrication: 3D printing (FDM, direct ink writing), electrospinning, melt extrusion
+        - Formulation of polymer composites (melt/solvent) and organic synthesis
+    - title: Software
+      items:  
+        - MS Office, Rhino3D (CAD), ImageJ (image processing), OriginPro (data analysis), Git
+   
+    - title: Software
+      items: 
+        - Teaching, mentoring, collaborative problem solving, team building, people management
+    - title: Industry knowledge
+      items: 
+        - Technical writing, lab management, product & process development (market/literature research, design, and lab testing), project management (results dissemination, setting up timelines, tailored communication)
+        
+
+- title: Internships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: Visiting Student
+      institution: Singapore-MIT Alliance for Research& Technology, Singapore
+      year: Jun 2017-Dec 2018
+      description:
+          - Fabricated conductive scaffolds using micro-/nanofiber membranes of polyaniline/gelatin blends via electrospinning to suit in vitro culture of OPC cells.
+          
+    - title: Research Assistant
+      institution: University of Groningen, Netherlands
+      year: Nov 2011-Apr 2012
+      description:
+          - Developed sensors to detect the chirality of amino acids using optically active carbon nanotubes using NIR fluorescence.
+          
+    - title: Summer Intern
+      institution: Indian Institute of Technology Patna, India
+      year: May 2010-July 2010
+      description: Enhanced the adhesion and strength of BIMS elastomer by ionic modification of BIMS using 1-methylimidazole.
+          - 
+           
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2018
       items: 
         - Student service award, Singapore University of Technology and Design
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
     - year: 2016
       items: 
         - President's graduate fellowship for SUTD PhD program
@@ -112,6 +148,7 @@
       items: 
         - Organizing member, Team Alcheringa - annual cultural festival of IIT Guwahati
         
+
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
